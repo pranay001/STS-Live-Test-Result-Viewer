@@ -8,6 +8,7 @@ This tool displays the results published by "TSM Publish Data APIs" from differe
 2. TestStand >= 2019
 
 Note - the current version of the tool is developed and tested using LabVIEW 2019 and TestStand 2019
+<a href="https://www.google.com/" target="_blank">Google</a>
 
 # Installation Procedure:
 1. Download the [latest release](https://github.com/pranay001/STS-Live-Test-Result-Viewer/releases) of STS Live Test Result Viewer (`STS_LiveTestResultViewer_Release vx.x.x.zip`)
