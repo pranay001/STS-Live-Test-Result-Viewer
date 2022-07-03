@@ -8,10 +8,9 @@ This tool displays the results published by "TSM Publish Data APIs" from differe
 2. TestStand >= 2019
 
 Note - the current version of the tool is developed and tested using LabVIEW 2019 and TestStand 2019
-<a href="https://www.google.com/" target="_blank">Google</a>
 
 # Installation Procedure:
-1. Download the [latest release](https://github.com/pranay001/STS-Live-Test-Result-Viewer/releases) of STS Live Test Result Viewer (`STS_LiveTestResultViewer_Release vx.x.x.zip`)
+1. Download the <a href="https://www.google.com/](https://github.com/pranay001/STS-Live-Test-Result-Viewer/releases" target="_blank">latest release</a> of STS Live Test Result Viewer (`STS_LiveTestResultViewer_Release vx.x.x.zip`)
 2. Copy the contents of zip file to "C:\Users\Public\Documents\National Instruments\TestStand 2019 (64-bit)\Components\Models\ModelPlugins". Choose the path based on the version and bitness of TestStand installed in the PC. 
     ![image](https://user-images.githubusercontent.com/22153041/177027322-3f373e28-871f-4386-9bf3-24f10ea3e011.png)
 
