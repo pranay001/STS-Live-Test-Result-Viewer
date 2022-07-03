@@ -7,7 +7,7 @@ This tool displays the results published by publish data apis from different cod
 1. LabVIEW >= 2019
 2. TestStand >= 2019
 
-Note - Developed and tested using LabVIEW 2019 and TestStand 2019
+Note - the current version of the tool is developed and tested using LabVIEW 2019 and TestStand 2019
 
 # Installation Procedure:
 1. Download and copy the contents of source folder to "C:\Users\Public\Documents\National Instruments\TestStand 2019 (64-bit)\Components\Models\ModelPlugins". Choose the path based on the version and bitness of TestStand installed in the PC. 
