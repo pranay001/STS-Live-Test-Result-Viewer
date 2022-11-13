@@ -11,6 +11,7 @@
 			<Item Name="Operation.ctl" Type="VI" URL="../TypeDefs/Event Handler/Operation.ctl"/>
 		</Item>
 		<Item Name="NumericLimit Data.ctl" Type="VI" URL="../TypeDefs/NumericLimit Data.ctl"/>
+		<Item Name="Group Results By.ctl" Type="VI" URL="../TypeDefs/Group Results By.ctl"/>
 		<Item Name="Status.ctl" Type="VI" URL="../TypeDefs/Status.ctl"/>
 		<Item Name="Publish Data.ctl" Type="VI" URL="../TypeDefs/Publish Data.ctl"/>
 		<Item Name="Config UI Data Type.ctl" Type="VI" URL="../TypeDefs/Config UI Data Type.ctl"/>
